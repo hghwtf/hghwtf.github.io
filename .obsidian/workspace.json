@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/docs/configuration.md",
+                "file": "source/content/index.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "6f2011423c3e5e66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/content/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "configuration"
+              "title": "index"
             }
           }
         ]
@@ -171,26 +185,35 @@
   },
   "active": "740baf11353b1526",
   "lastOpenFiles": [
-    "source/docs/features/private pages.md",
+    "source/docs/setting up your GitHub repository.md",
+    "source/docs/upgrading.md",
+    "source/docs/authoring content.md",
+    "source/docs/tags/plugin.md",
+    "source/docs/tags/component.md",
+    "source/docs/index.md",
+    "source/docs/hosting.md",
     "source/docs/configuration.md",
-    "source/docs/plugins/Assets.md",
+    "source/docs/features/i18n.md",
+    "source/content/index.md",
+    "source/content/category-folder/index.md",
+    "source/docs/advanced/paths.md",
+    "source/docs/advanced/creating components.md",
+    "source/docs/advanced/index.md",
+    "source/docs/advanced/architecture.md",
+    "source/docs/images/quartz transform pipeline.png",
+    "source/docs/plugins/NotFoundPage.md",
     "source/docs/plugins/AliasRedirects.md",
+    "source/docs/features/Obsidian compatibility.md",
+    "source/docs/plugins/ObsidianFlavoredMarkdown.md",
+    "source/docs/features/Roam Research compatibility.md",
+    "source/docs/features/SPA Routing.md",
+    "source/docs/features/comments.md",
+    "source/docs/features/recent notes.md",
+    "source/docs/features/private pages.md",
+    "source/docs/plugins/Assets.md",
     "source/docs/images/giscus-example.png",
     "source/docs/images/giscus-discussion.png",
     "source/docs/images/dns records.png",
-    "source/docs/features/explorer.md",
-    "source/docs/features/Docker Support.md",
-    "source/docs/features/darkmode.md",
-    "source/docs/features/comments.md",
-    "source/docs/features/callouts.md",
-    "source/docs/features/breadcrumbs.md",
-    "source/docs/features/backlinks.md",
-    "source/docs/advanced/paths.md",
-    "source/docs/advanced/making plugins.md",
-    "source/docs/advanced/index.md",
-    "source/docs/advanced/creating components.md",
-    "source/docs/advanced/architecture.md",
-    "source/docs/plugins/GitHubFlavoredMarkdown.md",
-    "source/content/index.md"
+    "source/docs/features/explorer.md"
   ]
 }
